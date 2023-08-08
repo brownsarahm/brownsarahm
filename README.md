@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I'm an Assistant Professor of Computer Sicence at URI. 
+- I teach Programming for Data Science [@rhodyprog4ds](https://github.com/rhodyprog4ds), Computer Systems and Programming Tools [@introcompsys](https://github.com/introcompsys) and Machine Learning for Science and Society [@mlscisoc](https://github.com/ml4scisoc). 
+- I direct the [@Ml4sts](https://github.com/ml4sts) lab.  
+- I also lead the CS department's participation in [Talent Development's](https://web.uri.edu/talentdevelopment/about/)  Summer Success Program [@csctd](https://github.com/csctd). 
+- I'm a certified [@carpentries](https://github.com/carpentries) instructor and trainer, where I am a co-maintainer for the [instructor training curriculum](https://github.com/carpentries/instructor-training/).
+
 <!--
 **brownsarahm/brownsarahm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
